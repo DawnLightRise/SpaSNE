@@ -7,8 +7,11 @@ By leveraging both the gene expression and the spatial information, SpaSNE gives
 a comprehensive low-dimensional visualization that could best reflect the 
 molecular similarities of cells and the spatial interactions between cells.  
 
-Paper: Dimensionality reduction for visualizing spatially resolved profiling 
-        data using SpaSNE.
+**Publication:**  
+Zhou Y., C. Tang, X. Xiao, X. Zhan, T. Wang, G. Xiao, and L. Xu, 2025, 
+*Dimensionality reduction for visualizing spatially resolved profiling data using SpaSNE*. 
+**GigaScience**, 14, giaf002.  
+https://doi.org/10.1093/gigascience/giaf002
 
 # 2. Result
 
