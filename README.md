@@ -155,16 +155,21 @@ Please refer to the [Tutorials](https://github.com/Lin-Xu-lab/SpaSNE/tree/main/T
 
 Please contact our team if you have any questions:
 
-Yuansheng Zhou (Yuansheng.Zhou@UTSouthwestern.edu)
+**Yuansheng Zhou**  
+Email: [Yuansheng.Zhou@UTSouthwestern.edu](mailto:Yuansheng.Zhou@UTSouthwestern.edu)
 
-Chen Tang (Chen.Tang@UTSouthwestern.edu)
+**Chen Tang**  
+Email: [Chen.Tang@UTSouthwestern.edu](mailto:Chen.Tang@UTSouthwestern.edu)
 
-Xue Xiao (Xiao.Xue@UTSouthwestern.edu)
+Since Chen Tang has left UT Southwestern Medical Center, please use [**chen.tang.diary@gmail.com**](mailto:chen.tang.diary@gmail.com) for current correspondence.
 
-Lin Xu (Lin.Xu@UTSouthwestern.edu)
+**Xue Xiao** *(left UT Southwestern Medical Center)*  
+Email: [Xiao.Xue@UTSouthwestern.edu](mailto:Xiao.Xue@UTSouthwestern.edu)
 
-Please contact Chen Tang for programming questions about the spasne.py and *.cpp
-files.
+**Lin Xu**  
+Email: [Lin.Xu@UTSouthwestern.edu](mailto:Lin.Xu@UTSouthwestern.edu)
+
+Please contact **Chen Tang** for programming questions about the `spasne.py` and `*.cpp` files.
 
 # 7. Copyright information 
 
