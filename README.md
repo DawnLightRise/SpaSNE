@@ -163,8 +163,10 @@ Email: [Chen.Tang@UTSouthwestern.edu](mailto:Chen.Tang@UTSouthwestern.edu)
 
 Since Chen Tang has left UT Southwestern Medical Center, please use [**chen.tang.diary@gmail.com**](mailto:chen.tang.diary@gmail.com) for current correspondence.
 
-**Xue Xiao** *(left UT Southwestern Medical Center)*  
+**Xue Xiao**  
 Email: [Xiao.Xue@UTSouthwestern.edu](mailto:Xiao.Xue@UTSouthwestern.edu)
+
+Xue Xiao has left UT Southwestern Medical Center.
 
 **Lin Xu**  
 Email: [Lin.Xu@UTSouthwestern.edu](mailto:Lin.Xu@UTSouthwestern.edu)
