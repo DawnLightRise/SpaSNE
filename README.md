@@ -154,7 +154,7 @@ Please refer to the [Tutorials](https://github.com/Lin-Xu-lab/SpaSNE/tree/main/T
 # 6. Contact information
 
 Please contact our team if you have any questions:
-*Only members of the Lin Xu Lab are listed here. For the full author list, please refer to the information of the publication provided above.*
+*Only members of the Lin Xu Lab are listed here. For the full author list, please refer to the information of the publication listed above.*
 
 **Yuansheng Zhou**  
 Email: [Yuansheng.Zhou@UTSouthwestern.edu](mailto:Yuansheng.Zhou@UTSouthwestern.edu)
