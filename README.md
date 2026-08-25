@@ -169,7 +169,7 @@ Email: [Xiao.Xue@UTSouthwestern.edu](mailto:Xiao.Xue@UTSouthwestern.edu)
 **Lin Xu**  
 Email: [Lin.Xu@UTSouthwestern.edu](mailto:Lin.Xu@UTSouthwestern.edu)
 
-Please contact **Chen Tang** for programming questions about the `spasne.py` and `*.cpp` files.
+Please contact **Chen Tang** [**chen.tang.diary@gmail.com**](mailto:chen.tang.diary@gmail.com) programming questions about the `spasne.py` and `*.cpp` files.
 
 # 7. Copyright information 
 
