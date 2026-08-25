@@ -166,8 +166,6 @@ Since Chen Tang has left UT Southwestern Medical Center, please use [**chen.tang
 **Xue Xiao**  
 Email: [Xiao.Xue@UTSouthwestern.edu](mailto:Xiao.Xue@UTSouthwestern.edu)
 
-Xue Xiao has left UT Southwestern Medical Center.
-
 **Lin Xu**  
 Email: [Lin.Xu@UTSouthwestern.edu](mailto:Lin.Xu@UTSouthwestern.edu)
 
